@@ -1326,6 +1326,23 @@
       "priority": 10000000000
     },
     {
+      "fullPath": "presets/2025.12/rc_link/elrs/Bags_elrs_250hz.txt",
+      "hash": "dff8b39ff96e9b7d386751b25851530da6b33c9049e20fd30fe22aa01c2549be",
+      "title": "Bags ExpressLRS 250Hz",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "Bags",
+        "ELRS"
+      ],
+      "author": "ctzsnooze, SupaflyFPV",
+      "force_options_review": true,
+      "priority": 10000000000
+    },
+    {
       "fullPath": "presets/2025.12/rc_link/elrs/elrs_1000hz.txt",
       "hash": "c036b3761e168f5ae3be7b046d7eb73f0ca0e13e883e0abd99540d30fba1305c",
       "title": "ExpressLRS 1000Hz",
