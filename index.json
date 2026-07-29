@@ -2845,26 +2845,7 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/2025.12/tune/uav_tech/UAV_tech_10in.txt",
-      "hash": "392f14202158595ba5da67548ae5dadea0be16a62470375efa8478e9b0fdb13d",
-      "title": "UAV Tech - 10\" (1400-1700g | 31xx motors)",
-      "firmware_version": [
-        "2025.12"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "4S",
-        "6S",
-        "10in",
-        "10\"",
-        "freestyle"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/2025.12/tune/uav_tech/UAV_tech_5in_Freestyle_575-650.txt",
+      "fullPath": "presets/2025.12/tune/uav_tech/bags_uav_tech_5in_Freestyle_575-650.txt",
       "hash": "47e3aa6af8b1d55525396abef27986663d2a08424307c01706270b109421bfc6",
       "title": "Bags- UAV Tech - 5\" Freestyle 575-650 AUW",
       "firmware_version": [
@@ -2879,6 +2860,50 @@
         "5\"",
         "freestyle",
         "Bags"
+      ],
+      "author": "UAV Tech (Mark Spatz)",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/2025.12/tune/uav_tech/bags_uav_tech_Micro.txt",
+      "hash": "b8e9439d74bb9aca66e3afd863a87d8bf9e0056381cfda14c3edcb19ada29d8f",
+      "title": "Bags- UAV Tech - Micro 2\" to 4\"",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "2S",
+        "3S",
+        "4S",
+        "6S",
+        "toothpick",
+        "2in",
+        "2.5in",
+        "3in",
+        "3.5in",
+        "4in",
+        "Bags"
+      ],
+      "author": "UAV Tech (Mark Spatz)",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/2025.12/tune/uav_tech/UAV_tech_10in.txt",
+      "hash": "392f14202158595ba5da67548ae5dadea0be16a62470375efa8478e9b0fdb13d",
+      "title": "UAV Tech - 10\" (1400-1700g | 31xx motors)",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "4S",
+        "6S",
+        "10in",
+        "10\"",
+        "freestyle"
       ],
       "author": "UAV Tech (Mark Spatz)",
       "priority": 1000000000000
@@ -3029,31 +3054,6 @@
       "keywords": [
         "Caddx",
         "Gofilm20"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/2025.12/tune/uav_tech/UAV_tech_Micro.txt",
-      "hash": "b8e9439d74bb9aca66e3afd863a87d8bf9e0056381cfda14c3edcb19ada29d8f",
-      "title": "Bags- UAV Tech - Micro 2\" to 4\"",
-      "firmware_version": [
-        "2025.12"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "2S",
-        "3S",
-        "4S",
-        "6S",
-        "toothpick",
-        "2in",
-        "2.5in",
-        "3in",
-        "3.5in",
-        "4in",
-        "Bags"
       ],
       "author": "UAV Tech (Mark Spatz)",
       "priority": 1000000000000
