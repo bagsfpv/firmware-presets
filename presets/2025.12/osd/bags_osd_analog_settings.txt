@@ -3,7 +3,7 @@
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL	
 #$ KEYWORDS: analog, Bags
-#$ AUTHOR: JBS (Bags)
+#$ AUTHOR: Bags
 
 set osd_units = IMPERIAL
 set osd_warn_bitmask = 397311
