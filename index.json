@@ -1038,8 +1038,8 @@
     },
     {
       "fullPath": "presets/2025.12/osd/bags_osd_analog_settings.txt",
-      "hash": "c17a1a77f3c867f89b2190d11f4cfa78b32a85ce5f61d8aa8bd5af03d9a8325f",
-      "title": "Bags - Analog",
+      "hash": "cfcb23ce34420f04e9bd55b596d14ab44ad3e5661813bb0dfc69dc61f25e8524",
+      "title": "Bags - Analog OSD",
       "firmware_version": [
         "2025.12"
       ],
