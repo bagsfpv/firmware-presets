@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 2025.12
 #$ CATEGORY: RC_LINK
 #$ STATUS: OFFICIAL
-#$ KEYWORDS:  ELRS
+#$ KEYWORDS:  ELRS, controllink
 #$ AUTHOR: ctzsnooze, SupaflyFPV
 #$ DESCRIPTION: RC link settings for a 250Hz ELRS link via CRSF.
 #$ DESCRIPTION: WARNING: make sure that the OpenTx or EdgeTx Hardware ADC Filter is un-checked!
