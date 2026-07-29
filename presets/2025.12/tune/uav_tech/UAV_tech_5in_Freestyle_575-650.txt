@@ -1,8 +1,8 @@
-#$ TITLE: UAV Tech - 5" Freestyle withOUT GoPro (575-650g AUW)
+#$ TITLE: Bags- UAV Tech - 5" Freestyle 575-650 AUW
 #$ FIRMWARE_VERSION: 2025.12
 #$ CATEGORY: TUNE
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: 4S, 6S, 5in, 5", freestyle
+#$ KEYWORDS: 4S, 6S, 5in, 5", freestyle, Bags
 #$ AUTHOR: UAV Tech (Mark Spatz)
 
 #$ PARSER: MARKED

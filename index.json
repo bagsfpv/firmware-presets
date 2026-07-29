@@ -2865,8 +2865,8 @@
     },
     {
       "fullPath": "presets/2025.12/tune/uav_tech/UAV_tech_5in_Freestyle_575-650.txt",
-      "hash": "2624d31b53fd07183078d312f3b0eac0dbcdc2081c9254d76d7331a9f13aff43",
-      "title": "UAV Tech - 5\" Freestyle withOUT GoPro (575-650g AUW)",
+      "hash": "47e3aa6af8b1d55525396abef27986663d2a08424307c01706270b109421bfc6",
+      "title": "Bags- UAV Tech - 5\" Freestyle 575-650 AUW",
       "firmware_version": [
         "2025.12"
       ],
@@ -2877,7 +2877,8 @@
         "6S",
         "5in",
         "5\"",
-        "freestyle"
+        "freestyle",
+        "Bags"
       ],
       "author": "UAV Tech (Mark Spatz)",
       "priority": 1000000000000
@@ -3034,8 +3035,8 @@
     },
     {
       "fullPath": "presets/2025.12/tune/uav_tech/UAV_tech_Micro.txt",
-      "hash": "c18fdefc46a9807fb3f55215b421cdaecc54e8c5c9321e3c66bbe9db64fe9af7",
-      "title": "UAV Tech - Micro (2\" to 4\")",
+      "hash": "b8e9439d74bb9aca66e3afd863a87d8bf9e0056381cfda14c3edcb19ada29d8f",
+      "title": "Bags- UAV Tech - Micro 2\" to 4\"",
       "firmware_version": [
         "2025.12"
       ],
@@ -3051,7 +3052,8 @@
         "2.5in",
         "3in",
         "3.5in",
-        "4in"
+        "4in",
+        "Bags"
       ],
       "author": "UAV Tech (Mark Spatz)",
       "priority": 1000000000000
