@@ -1037,8 +1037,8 @@
     },
     {
       "fullPath": "presets/2025.12/osd/bags_osd_analog_settings.txt",
-      "hash": "f04b29ec812f7001cc1a6e56924934443ef6c065adce3f2b6c6e07259d1d7475",
-      "title": "Bags - Analogv2",
+      "hash": "c17a1a77f3c867f89b2190d11f4cfa78b32a85ce5f61d8aa8bd5af03d9a8325f",
+      "title": "Bags - Analog",
       "firmware_version": [
         "2025.12"
       ],
@@ -1371,7 +1371,7 @@
     },
     {
       "fullPath": "presets/2025.12/rc_link/elrs/elrs_250hz.txt",
-      "hash": "845feb297cc14f785eac0cafbd3bea34bc5c9e4b466c481fdb689b90994ed180",
+      "hash": "40fc1e48d686a1e6099230d82ca8055e0ff3098906768ff6a29d43e45c94911a",
       "title": "ExpressLRS 250Hz",
       "firmware_version": [
         "2025.12"
@@ -1379,13 +1379,8 @@
       "category": "RC_LINK",
       "status": "OFFICIAL",
       "keywords": [
-        "ELRS",
-        "express",
-        "250Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
+        "Bags",
+        "ELRS"
       ],
       "author": "ctzsnooze, SupaflyFPV",
       "force_options_review": true,
