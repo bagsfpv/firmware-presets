@@ -1388,7 +1388,7 @@
     },
     {
       "fullPath": "presets/2025.12/rc_link/elrs/elrs_250hz.txt",
-      "hash": "40fc1e48d686a1e6099230d82ca8055e0ff3098906768ff6a29d43e45c94911a",
+      "hash": "58414345e53b8700e1e693a5ce2b0a4357d72723a25d91b036e14f9b3d1b2e1e",
       "title": "ExpressLRS 250Hz",
       "firmware_version": [
         "2025.12"
@@ -1396,7 +1396,6 @@
       "category": "RC_LINK",
       "status": "OFFICIAL",
       "keywords": [
-        "Bags",
         "ELRS"
       ],
       "author": "ctzsnooze, SupaflyFPV",
