@@ -8242,6 +8242,22 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.5/bags/bags_analog_settings45.txt",
+      "hash": "161dadbb52d1790e876e1453d755c009dcc487b3c26c6ff175946d4fa750a66d",
+      "title": "Bags - Analog Setting",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "analog",
+        "Bags"
+      ],
+      "author": "Bags",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/bnf/betafpv_air65_racing_factory_safeerh.txt",
       "hash": "6e1692a517095486d4b0ba929a620abe9c41a00c4963b4beb6006680d153eb46",
       "title": "BETAFPV Air65 Racing Factory Settings",
