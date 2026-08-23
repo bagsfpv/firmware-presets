@@ -1,10 +1,12 @@
-#$ TITLE: Bags - Analog Settings
+#$ TITLE: Bags - Analog Setting
 #$ FIRMWARE_VERSION: 2025.12
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL	
 #$ KEYWORDS: analog, Bags
 #$ AUTHOR: Bags
-#& channels mapping
+#& channel mapping
+
+map aert1234
 
 set osd_units = IMPERIAL
 set osd_warn_bitmask = 397311

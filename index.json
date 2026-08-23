@@ -650,8 +650,8 @@
   "presets": [
     {
       "fullPath": "presets/2025.12/bags/bags_analog_settings.txt",
-      "hash": "94cd618bd61cf00b6ad0d35c2a838622bf5aa8c43dacea851049f7538ff1df34",
-      "title": "Bags - Analog Settings",
+      "hash": "161dadbb52d1790e876e1453d755c009dcc487b3c26c6ff175946d4fa750a66d",
+      "title": "Bags - Analog Setting",
       "firmware_version": [
         "2025.12"
       ],
