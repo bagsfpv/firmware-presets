@@ -1,4 +1,4 @@
-#$ TITLE: Bags - Analog OSD
+#$ TITLE: Bags - Analog Settings
 #$ FIRMWARE_VERSION: 2025.12
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL	
