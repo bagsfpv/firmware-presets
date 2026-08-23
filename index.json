@@ -8242,11 +8242,11 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.5/bags/bags_analog_settingss.txt",
-      "hash": "161dadbb52d1790e876e1453d755c009dcc487b3c26c6ff175946d4fa750a66d",
+      "fullPath": "presets/4.5/bags/bags_analog_settings.txt",
+      "hash": "9c1f300b55291007dd8ebf415e18d29a2833258e00cb93b4c5935861dd38bb25",
       "title": "Bags - Analog Setting",
       "firmware_version": [
-        "2025.12"
+        "4.5"
       ],
       "category": "OSD",
       "status": "EXPERIMENTAL",
