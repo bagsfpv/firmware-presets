@@ -649,6 +649,22 @@
   },
   "presets": [
     {
+      "fullPath": "presets/2025.12/bags/bags_analog_setting.txt",
+      "hash": "cfcb23ce34420f04e9bd55b596d14ab44ad3e5661813bb0dfc69dc61f25e8524",
+      "title": "Bags - Analog OSD",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "analog",
+        "Bags"
+      ],
+      "author": "Bags",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/2025.12/filters/aos_rc/aos_3.5_filters.txt",
       "hash": "45fc7920ddd5c8bc8842eea0312662d85963f8aef71db6b2f5d0ab8d2fe3fdb8",
       "title": "AOS 3.5 Filters",
@@ -10805,22 +10821,6 @@
       "author": "sugarK",
       "force_options_review": true,
       "priority": 1000000
-    },
-    {
-      "fullPath": "presets/bags/bags_analog.txt",
-      "hash": "cfcb23ce34420f04e9bd55b596d14ab44ad3e5661813bb0dfc69dc61f25e8524",
-      "title": "Bags - Analog OSD",
-      "firmware_version": [
-        "2025.12"
-      ],
-      "category": "OSD",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "analog",
-        "Bags"
-      ],
-      "author": "Bags",
-      "priority": 0
     }
   ]
 }
